@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://sprite/ssd.png" type="Texture" id=1]
+
+[node name="win" type="Node2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 487.629, 280.814 )
+scale = Vector2( 0.492053, 0.515111 )
+texture = ExtResource( 1 )
